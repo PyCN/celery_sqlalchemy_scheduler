@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: sqlalchemy-admin
+Version: 0.1.2
+Summary: CRUD admin interface for sqlalchemy
+Home-page: UNKNOWN
+Author: Stas Kaledin
+Author-email: staskaledin@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
