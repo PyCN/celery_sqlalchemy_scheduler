@@ -163,4 +163,4 @@ And to run beat with our scheduler
 
 where app is the file name and celery is the object inside the app
 
-I have add example project which shows tasks status in form of flask admin UI.
+I have added example project which shows tasks status in form of flask admin UI.
